@@ -100,8 +100,8 @@ Initial scope and monthly allowances are defined in the actual package cards. Pr
 - Smart Form: one form, up to 12 fields; monthly submission/delivery test, summary and up to 15 minutes of edits/fixes.
 - Quick Automation: one trigger, up to three actions, two supported tools, one straightforward rule; monthly run/connection review, summary and up to 30 minutes of work.
 - Business Workflow: one workflow up to five steps, one form up to 12 fields, up to two supported integrations and follow-up/approval logic; monthly tests/report and up to 90 minutes of work.
-- Website Refresh: focused existing-site improvements; consult the card for the exact page/edit boundaries. Monthly allowance is defined there.
-- Website Relaunch: full design/rebuild up to five standard pages with supplied branding/content and light editing. Ecommerce, branding, full copywriting and complex migrations are separate.
+- Website Refresh: refresh up to three existing pages, typography/spacing/layout cleanup, mobile fixes and existing inquiry-form improvements, with one consolidated revision. Keeps the existing platform, structure, branding and content. Monthly website/form checks, supported platform updates and up to 30 minutes of small edits/fixes.
+- Website Relaunch: full design/rebuild up to five standard pages with supplied branding/content and light editing; one inquiry form, basic SEO/redirect map/analytics setup, two revisions and launch handoff. Monthly site/form/platform checks, site-health/traffic summary and up to 60 minutes of edits/fixes. Ecommerce, branding, full copywriting and complex migrations are separate.
 - Portal Starter: branded established-platform template, client/admin roles, one supported data source, up to two viewing screens for status/files. One-way viewing; not a custom application. Monthly checks/summary and up to 60 minutes of changes.
 - Connected Portal: branded established-platform portal, up to three views, two supported integrations, one request/approval workflow; monthly integration checks/summary and up to two hours of changes.
 
